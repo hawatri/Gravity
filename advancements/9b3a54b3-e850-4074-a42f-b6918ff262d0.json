@@ -159,10 +159,13 @@
     "criteria": {
       "minecraft:savanna_plateau": "2025-08-24 16:59:04 +0530",
       "minecraft:beach": "2025-08-24 21:33:49 +0530",
+      "minecraft:desert": "2025-08-26 18:02:00 +0530",
       "minecraft:forest": "2025-08-24 21:29:44 +0530",
       "minecraft:jungle": "2025-08-24 21:33:06 +0530",
       "minecraft:river": "2025-08-24 21:12:32 +0530",
+      "minecraft:lukewarm_ocean": "2025-08-26 17:59:03 +0530",
       "minecraft:savanna": "2025-08-24 16:57:50 +0530",
+      "minecraft:wooded_badlands": "2025-08-26 18:03:48 +0530",
       "minecraft:windswept_savanna": "2025-08-24 21:40:57 +0530",
       "minecraft:plains": "2025-08-24 21:36:01 +0530"
     },
@@ -2379,6 +2382,54 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-08-26 13:07:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-08-26 17:47:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-08-26 17:58:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-26 18:09:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-26 18:09:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-08-26 17:58:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-26 18:09:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-26 18:03:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-08-26 17:58:31 +0530"
     },
     "done": true
   },

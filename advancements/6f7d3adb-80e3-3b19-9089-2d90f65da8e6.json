@@ -153,6 +153,7 @@
     "criteria": {
       "cooked_porkchop": "2025-08-22 21:30:38 +0530",
       "mutton": "2025-08-22 16:53:55 +0530",
+      "apple": "2025-08-26 17:18:52 +0530",
       "bread": "2025-08-24 21:19:18 +0530",
       "cooked_chicken": "2025-08-25 03:02:34 +0530",
       "cooked_mutton": "2025-08-22 17:16:20 +0530",
@@ -1897,6 +1898,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-08-25 05:11:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-08-26 17:48:41 +0530"
     },
     "done": true
   },
