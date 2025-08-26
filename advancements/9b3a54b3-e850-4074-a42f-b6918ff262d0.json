@@ -1109,6 +1109,7 @@
       "minecraft:pillager": "2025-08-25 04:55:04 +0530",
       "minecraft:cave_spider": "2025-08-26 00:26:34 +0530",
       "minecraft:skeleton": "2025-08-24 23:36:14 +0530",
+      "minecraft:enderman": "2025-08-26 13:42:42 +0530",
       "minecraft:spider": "2025-08-26 03:52:27 +0530",
       "minecraft:zombie": "2025-08-25 21:20:50 +0530",
       "minecraft:zombie_villager": "2025-08-26 00:34:21 +0530"
@@ -2366,6 +2367,18 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2025-08-25 23:39:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-26 13:07:46 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-26 13:07:46 +0530"
     },
     "done": true
   },
