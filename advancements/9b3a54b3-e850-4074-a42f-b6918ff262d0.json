@@ -2397,6 +2397,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-08-26 17:58:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-08-26 17:58:31 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-26 18:03:50 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-08-26 18:09:30 +0530"
@@ -2409,27 +2427,29 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-08-26 17:58:31 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-08-26 18:09:30 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone": {
+  "minecraft:recipes/misc/leaf_litter": {
     "criteria": {
-      "has_sand": "2025-08-26 18:03:50 +0530"
+      "has_leaves": "2025-08-26 23:15:42 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_banner": {
+  "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "has_black_wool": "2025-08-26 17:58:31 +0530"
+      "minecraft:cow": "2025-08-26 23:46:56 +0530",
+      "minecraft:chicken": "2025-08-26 23:28:08 +0530",
+      "minecraft:sheep": "2025-08-26 23:39:41 +0530"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-08-26 23:28:08 +0530"
     },
     "done": true
   },

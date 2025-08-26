@@ -11,6 +11,7 @@
       "minecraft:forest": "2025-08-25 02:51:51 +0530",
       "minecraft:jungle": "2025-08-25 05:03:55 +0530",
       "minecraft:river": "2025-08-22 15:51:49 +0530",
+      "minecraft:stony_shore": "2025-08-26 22:41:46 +0530",
       "minecraft:dripstone_caves": "2025-08-25 03:09:28 +0530",
       "minecraft:savanna": "2025-08-22 15:48:51 +0530",
       "minecraft:plains": "2025-08-22 20:30:59 +0530"
@@ -1904,6 +1905,54 @@
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2025-08-26 17:48:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-08-26 23:48:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-08-26 23:23:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-08-26 23:53:29 +0530"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-26 22:41:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-08-26 23:48:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-08-26 23:48:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-08-26 23:23:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-08-26 23:53:29 +0530"
     },
     "done": true
   },
