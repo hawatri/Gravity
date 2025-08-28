@@ -515,6 +515,7 @@
       "cooked_chicken": "2025-08-25 04:23:10 +0530",
       "cooked_mutton": "2025-08-26 01:45:26 +0530",
       "potato": "2025-08-25 23:46:16 +0530",
+      "cooked_beef": "2025-08-28 18:54:37 +0530",
       "melon_slice": "2025-08-24 21:28:51 +0530"
     },
     "done": false
@@ -2450,6 +2451,30 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-08-26 23:28:08 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-28 18:56:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-28 18:53:38 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-28 18:56:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-28 18:53:38 +0530"
     },
     "done": true
   },
