@@ -1660,193 +1660,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-08-29 14:35:47 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_sign": {
-    "criteria": {
-      "has_planks": "2025-08-29 14:35:47 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_door": {
-    "criteria": {
-      "has_planks": "2025-08-29 14:35:47 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_fence": {
-    "criteria": {
-      "has_planks": "2025-08-29 14:35:47 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-08-29 14:35:47 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2025-08-29 14:35:47 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_slab": {
-    "criteria": {
-      "has_planks": "2025-08-29 14:35:47 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
-    "criteria": {
-      "has_planks": "2025-08-29 14:35:47 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-08-29 14:35:47 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-08-29 14:47:16 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-08-29 15:19:07 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2025-08-29 15:19:07 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2025-08-29 15:19:07 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-08-29 15:22:47 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-08-29 15:22:47 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-08-29 15:22:47 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-08-29 15:22:51 +0530"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:cow": "2025-08-29 15:41:47 +0530",
-      "minecraft:chicken": "2025-08-29 16:12:29 +0530",
-      "minecraft:sheep": "2025-08-29 15:40:21 +0530"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-08-29 15:40:21 +0530"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2025-08-29 16:04:04 +0530",
-      "minecraft:soul_sand_valley": "2025-09-03 14:38:18 +0530",
-      "minecraft:basalt_deltas": "2025-08-29 16:28:31 +0530"
-    },
-    "done": false
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-08-29 16:04:04 +0530"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-08-29 16:04:04 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_helmet": "2025-08-29 16:04:17 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_helmet": "2025-08-29 16:04:17 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-08-29 16:05:22 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-08-29 16:05:22 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-08-29 16:05:22 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-08-29 16:05:22 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-08-29 16:05:22 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-08-29 16:05:22 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-08-29 16:05:23 +0530"
     },
     "done": true
   },
@@ -1856,21 +1672,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "minecraft:recipes/redstone/comparator": {
     "criteria": {
-      "has_basalt": "2025-08-29 16:05:35 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-08-29 16:05:35 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-08-29 16:31:36 +0530"
+      "has_quartz": "2025-08-29 16:05:22 +0530"
     },
     "done": true
   },
@@ -1883,6 +1687,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-29 16:32:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-29 15:22:47 +0530"
     },
     "done": true
   },
@@ -1910,15 +1720,72 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-08-29 16:04:04 +0530",
+      "minecraft:basalt_deltas": "2025-08-29 16:28:31 +0530"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-08-29 16:04:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-29 16:04:04 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-29 16:32:16 +0530"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-29 14:35:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-08-29 15:41:47 +0530",
+      "minecraft:chicken": "2025-08-29 16:12:29 +0530",
+      "minecraft:sheep": "2025-08-29 15:40:21 +0530"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-29 16:32:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-29 15:22:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-29 16:04:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-29 15:22:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-08-29 16:04:17 +0530"
     },
     "done": true
   },
@@ -1928,9 +1795,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-08-29 14:35:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-08-29 14:35:47 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-29 16:32:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-08-29 16:31:36 +0530"
     },
     "done": true
   },
@@ -1952,15 +1837,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-29 15:22:51 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-08-29 14:47:16 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-29 16:32:16 +0530"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-08-29 16:05:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-08-29 14:35:47 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-29 16:32:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-29 14:35:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-08-29 15:19:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-08-29 16:05:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-08-29 14:35:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-08-29 15:19:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-08-29 16:05:22 +0530"
     },
     "done": true
   },
@@ -1976,147 +1921,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-08-29 15:19:07 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-29 16:32:16 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/combat/magenta_harness": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_dried_ghast": "2025-09-03 14:41:11 +0530"
+      "has_netherrack": "2025-08-29 16:05:23 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/combat/gray_harness": {
+  "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
-      "has_dried_ghast": "2025-09-03 14:41:11 +0530"
+      "has_basalt": "2025-08-29 16:05:35 +0530"
     },
     "done": true
   },
-  "minecraft:husbandry/place_dried_ghast_in_water": {
+  "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
-      "place_dried_ghast_in_water": "2025-09-03 15:49:33 +0530"
+      "has_planks": "2025-08-29 14:35:47 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/combat/black_harness": {
+  "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
-      "has_dried_ghast": "2025-09-03 14:41:11 +0530"
+      "has_quartz": "2025-08-29 16:05:22 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/combat/yellow_harness": {
+  "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
-      "has_dried_ghast": "2025-09-03 14:41:11 +0530"
+      "has_planks": "2025-08-29 14:35:47 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/combat/pink_harness": {
+  "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
-      "has_dried_ghast": "2025-09-03 14:41:11 +0530"
+      "has_quartz": "2025-08-29 16:05:22 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/combat/orange_harness": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "has_dried_ghast": "2025-09-03 14:41:11 +0530"
+      "bred": "2025-08-29 15:40:21 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
+  "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
-      "has_red_mushroom": "2025-09-03 14:17:33 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-09-03 14:14:41 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/light_blue_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-09-03 14:41:11 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-09-03 14:38:22 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-09-03 14:14:41 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/cyan_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-09-03 14:41:11 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/red_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-09-03 14:41:11 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/brown_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-09-03 14:41:11 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/green_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-09-03 14:41:11 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-09-03 14:38:22 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_red_mushroom": "2025-09-03 14:17:33 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/purple_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-09-03 14:41:11 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/white_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-09-03 14:41:11 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/lime_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-09-03 14:41:11 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/blue_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-09-03 14:41:11 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/light_gray_harness": {
-    "criteria": {
-      "has_dried_ghast": "2025-09-03 14:41:11 +0530"
+      "has_planks": "2025-08-29 14:35:47 +0530"
     },
     "done": true
   },

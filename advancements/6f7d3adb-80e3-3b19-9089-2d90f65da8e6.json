@@ -158,7 +158,6 @@
       "cooked_porkchop": "2025-08-22 21:30:38 +0530",
       "mutton": "2025-08-22 16:53:55 +0530",
       "apple": "2025-08-26 17:18:52 +0530",
-      "chicken": "2025-09-03 15:55:43 +0530",
       "bread": "2025-08-24 21:19:18 +0530",
       "cooked_chicken": "2025-08-25 03:02:34 +0530",
       "rotten_flesh": "2025-08-29 15:20:23 +0530",
@@ -883,7 +882,6 @@
       "minecraft:pillager": "2025-08-24 21:07:14 +0530",
       "minecraft:cave_spider": "2025-08-25 21:10:56 +0530",
       "minecraft:skeleton": "2025-08-22 21:03:28 +0530",
-      "minecraft:piglin": "2025-09-03 14:15:38 +0530",
       "minecraft:zombified_piglin": "2025-09-02 16:15:39 +0530",
       "minecraft:magma_cube": "2025-09-02 16:27:45 +0530",
       "minecraft:spider": "2025-08-24 20:49:02 +0530",
@@ -2137,7 +2135,6 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-08-29 16:03:57 +0530",
-      "minecraft:soul_sand_valley": "2025-09-03 14:38:12 +0530",
       "minecraft:basalt_deltas": "2025-09-02 16:36:45 +0530"
     },
     "done": false
@@ -2403,30 +2400,6 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-02 16:44:04 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-09-03 14:18:47 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-09-03 14:37:53 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-09-03 14:37:53 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_red_mushroom": "2025-09-03 14:18:47 +0530"
     },
     "done": true
   },
